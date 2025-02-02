@@ -1,4 +1,3 @@
-# A simple script to download movie posters from IMDB
 import requests
 import os
 from imdb import IMDb
