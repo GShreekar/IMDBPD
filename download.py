@@ -17,3 +17,6 @@ def download(movie_id):
 def main():
     movie_id = input('Enter IMDB movie ID: ')
     download(movie_id)
+    
+if __name__ == '__main__':
+    main()
